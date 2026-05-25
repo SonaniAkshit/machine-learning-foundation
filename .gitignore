@@ -1,0 +1,93 @@
+# =========================
+# Python Cache Files
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual Environments
+# =========================
+venv/
+env/
+ENV/
+.venv/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# VS Code / IDE Files
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Environment Variables
+# =========================
+.env
+
+# =========================
+# Logs & Temporary Files
+# =========================
+*.log
+*.tmp
+*.temp
+
+# =========================
+# OS Generated Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Build / Distribution Files
+# =========================
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Python Packaging
+# =========================
+*.egg
+pip-wheel-metadata/
+
+# =========================
+# ML / Data Science Files
+# =========================
+*.pkl
+*.joblib
+*.h5
+*.ckpt
+
+# =========================
+# Dataset Files
+# =========================
+datasets/raw/
+data/raw/
+
+# =========================
+# Generated Outputs
+# =========================
+outputs/
+reports/
+results/
+
+# =========================
+# Matplotlib Cache
+# =========================
+.matplotlib/
+
+# =========================
+# Pytest Cache
+# =========================
+.pytest_cache/
+
+# =========================
+# Coverage Reports
+# =========================
+.coverage
+htmlcov/
